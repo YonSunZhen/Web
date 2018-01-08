@@ -1,0 +1,83 @@
+﻿body {
+    font-family:"宋体"，Arial,Helvetica,sans-serif;
+    color:black;
+    font-size:20px;
+}
+.BigDiv {
+    width:700px;
+    height:auto;
+    margin:0 auto ;/*整体左右居中*/
+    padding-top:5px;
+
+}
+.title {
+    width:700px;
+    font-size:25px;
+    /*background:#808080;*/
+
+}
+h1 {
+    text-align:center;
+}
+h4 {
+    text-align:center;
+}
+
+.UserName { 
+    width:700px;
+    text-align:center;
+    background:white;
+}
+
+.content {
+    width: 700px;
+    height: 200px;
+    border:3px solid black;
+    /*background:#ffd800;*/
+    /*text-align: center;*/
+}
+.content1 {
+    width: 500px;
+    height: 100px;
+    position:relative;
+    top:30px;
+    margin: auto;
+    /*background:#f00;*/
+}
+.CommentPlace {
+    width: 700px;
+    height: auto;
+    text-align:center;
+    background:#f00;
+}
+.OldComment {
+    width: 700px;
+    height: auto;
+    border:3px solid black;
+}
+
+.NewComment {
+    width: 700px;
+    height: auto;
+    /*background:#4cff00;*/
+}
+/*.comment1 {
+   position:relative;
+   margin-left:606px;
+   float:left;
+}
+
+.comment2 {
+   position:relative;
+   margin-left:686px;
+}*/
+
+.comment3 {
+   position:relative;
+   margin-left:628px;
+}
+
+
+
+
+

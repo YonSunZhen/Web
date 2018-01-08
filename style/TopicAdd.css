@@ -1,0 +1,41 @@
+﻿body {
+    font-family:"宋体"，Arial,Helvetica,sans-serif;
+    color:#fff;
+    font-size:20px;
+}
+
+#BigDiv {
+    width:450px;
+    height:auto;
+    margin:100px auto ;/*整体左右居中*/
+    padding-top:100px;/*整体下移*/
+    background:#fff;
+
+}
+#TopDiv {
+     width:450px;
+     height:176px;
+     background:url(../Images/login-form-ui-designs-9.jpg);
+}
+#CenterDiv{
+     width:449px; 
+     background:#333333;
+     text-align:center;
+     height:auto;
+     
+}
+
+
+#BottomDiv{
+    width:450px;
+   /*float:none;*/    
+}
+
+.title {
+    width:450px;
+    height:auto;
+}
+.content {
+     width:450px;
+    height:150px;
+}

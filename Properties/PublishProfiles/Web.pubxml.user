@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0oI3hAe2lEOeeb2kXWt3wgAAAAACAAAAAAAQZgAAAAEAACAAAAC/0pDVyvskm4tNEwhLvbKwnt+kocL5mGhKBIPDvLuMYwAAAAAOgAAAAAIAACAAAADwcZe35zFQ+MPmLFoOcfnE3CYT228Yv8p7lDh0tA+l0yAAAACu/iP9Sp9fhnW7LiUjgez7H1GnJm0/U/7FCfILw1FFtUAAAABNgLwiCIMmF2yD1T3r0RPh4Af8fjEiX5w7KmoT6uksqu47xcdPTD6J8+fCV4QI5tUjSDjR2DIvleq0HUOYnayZ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApp.dll">
+      <publishTime>01/02/2018 18:16:41</publishTime>
+    </File>
+    <File Include="Comment.dbml">
+      <publishTime>12/08/2017 11:03:02</publishTime>
+    </File>
+    <File Include="ContentShow.aspx">
+      <publishTime>01/01/2018 19:24:11</publishTime>
+    </File>
+    <File Include="Images/1.jpg">
+      <publishTime>12/07/2017 21:17:56</publishTime>
+    </File>
+    <File Include="Images/2.jpg">
+      <publishTime>12/07/2017 21:17:56</publishTime>
+    </File>
+    <File Include="Images/3.jpg">
+      <publishTime>12/07/2017 21:17:56</publishTime>
+    </File>
+    <File Include="Images/4.jpg">
+      <publishTime>12/07/2017 21:40:18</publishTime>
+    </File>
+    <File Include="Images/5.jpg">
+      <publishTime>12/07/2017 21:40:18</publishTime>
+    </File>
+    <File Include="Images/6.jpg">
+      <publishTime>12/07/2017 21:40:18</publishTime>
+    </File>
+    <File Include="Images/后台背景1.jpg">
+      <publishTime>12/24/2017 20:29:43</publishTime>
+    </File>
+    <File Include="Images/大科技3.jpg">
+      <publishTime>12/24/2017 20:17:33</publishTime>
+    </File>
+    <File Include="Images/小科技3.jpg">
+      <publishTime>12/24/2017 20:14:12</publishTime>
+    </File>
+    <File Include="Images/灰色背景1.jpg">
+      <publishTime>01/01/2018 11:46:10</publishTime>
+    </File>
+    <File Include="Images/背景3.jpg">
+      <publishTime>12/07/2017 17:39:46</publishTime>
+    </File>
+    <File Include="Images/蓝色条.jpg">
+      <publishTime>12/13/2017 16:54:54</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>01/01/2018 21:49:12</publishTime>
+    </File>
+    <File Include="js/Cookie.js">
+      <publishTime>01/01/2018 18:48:24</publishTime>
+    </File>
+    <File Include="Logon.aspx">
+      <publishTime>12/19/2017 22:34:16</publishTime>
+    </File>
+    <File Include="Manage.Master">
+      <publishTime>12/24/2017 14:01:28</publishTime>
+    </File>
+    <File Include="ManageEnd/M%28用户管理%29.aspx">
+      <publishTime>12/24/2017 13:30:25</publishTime>
+    </File>
+    <File Include="ManageEnd/MEndIndex.aspx">
+      <publishTime>12/24/2017 20:20:04</publishTime>
+    </File>
+    <File Include="ManageEnd/M（删除帖子）.aspx">
+      <publishTime>12/24/2017 09:59:33</publishTime>
+    </File>
+    <File Include="ManageEnd/M（删除评论）.aspx">
+      <publishTime>12/24/2017 13:03:14</publishTime>
+    </File>
+    <File Include="ManageEnd/M（更改密码）.aspx">
+      <publishTime>12/24/2017 16:20:12</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>12/20/2017 22:37:16</publishTime>
+    </File>
+    <File Include="style/ContentShow.css">
+      <publishTime>12/23/2017 21:03:04</publishTime>
+    </File>
+    <File Include="style/index.css">
+      <publishTime>01/01/2018 11:02:06</publishTime>
+    </File>
+    <File Include="style/index1.css">
+      <publishTime>01/01/2018 18:57:57</publishTime>
+    </File>
+    <File Include="style/LogSite.css">
+      <publishTime>12/19/2017 22:21:10</publishTime>
+    </File>
+    <File Include="style/Manage.css">
+      <publishTime>12/24/2017 20:30:09</publishTime>
+    </File>
+    <File Include="style/TopicAdd.css">
+      <publishTime>12/09/2017 20:23:54</publishTime>
+    </File>
+    <File Include="TopicAdd.aspx">
+      <publishTime>12/20/2017 23:16:34</publishTime>
+    </File>
+    <File Include="TopicInfo.dbml">
+      <publishTime>12/08/2017 11:01:32</publishTime>
+    </File>
+    <File Include="User.Master">
+      <publishTime>12/24/2017 13:59:31</publishTime>
+    </File>
+    <File Include="UserEnd/UEndIndex.aspx">
+      <publishTime>12/24/2017 20:14:41</publishTime>
+    </File>
+    <File Include="UserEnd/U（删除帖子）.aspx">
+      <publishTime>12/24/2017 15:46:29</publishTime>
+    </File>
+    <File Include="UserEnd/U（删除评论）.aspx">
+      <publishTime>12/24/2017 15:44:57</publishTime>
+    </File>
+    <File Include="UserEnd/U（更改密码）.aspx">
+      <publishTime>12/24/2017 16:19:53</publishTime>
+    </File>
+    <File Include="UserInfo.dbml">
+      <publishTime>12/24/2017 09:53:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/04/2018 17:41:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
