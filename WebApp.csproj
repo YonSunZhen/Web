@@ -94,6 +94,7 @@
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="添加一个页面.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Comment.cs">
@@ -229,6 +230,13 @@
       <DependentUpon>TopicInfo.dbml</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="添加一个页面.aspx.cs">
+      <DependentUpon>添加一个页面.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="添加一个页面.aspx.designer.cs">
+      <DependentUpon>添加一个页面.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
